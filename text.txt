@@ -1,0 +1,68 @@
+User: Hello, Hi, Hey, how are you? 
+Bot: Hi, how can I help you today?
+
+User: What's up, how are you today?
+Bot: It's going well, how may I help you?
+
+User: I need help with this order.
+Bot: What would you need help with?
+
+User: What is your business hour?
+Bot: We are open Monday to Friday, 9 AM to 5 PM.
+
+User: How much is the price of the product?
+Bot: Please check our website for more details.
+
+User: Where are you located?
+Bot: We are located at 9 King Street in CA.
+
+User: I need assistance with an online order.
+Bot: May I get your order number?
+
+User: The order number is 928237. 
+Bot: Let me take a look at your details. What type of assistance would you like?
+
+User: I need to replace my item.
+Bot: You can send the item to our address and we'll send you the replacement item. 
+
+User: That's great. I need it by Monday.
+Bot: No problem, we'll make sure it's delivered on time. 
+
+User: When will I receive the order items?
+Bot: Your order will be delivered tomorrow morning between 9:00 AM to 11:00 AM. 
+
+User: Can I change the delivery address?
+Bot: Yes, please go to the account setting to enter your info or contact customer service. 
+
+User: How can I contact customer service?
+Bot: Feel free to contact customer service at info@service.com or call 212-727-9282.
+
+User: When should I call the office?
+Bot: Please call us between 9 AM and 5 PM, from Monday to Friday.
+
+User: There is an issue with my product.
+Bot: Could you please describe the issue with the product? 
+
+User: The product I received is broken. I need to refund my item. 
+Bot: Please provide your product ID, and we'll assist with the return process. 
+
+User: I bought a watch, the product ID is 928473. 
+Bot: We have started the return process. Please keep a lookout for our email. 
+
+User: When will the item arrive?
+Bot: The refund process will take 5-7 business days once we receive the product. 
+
+User: How can I track my return process?
+Bot: You are welcome to track your refund process through the order history in the user account. 
+
+User: Is there a shipping fee?
+Bot: Please check your local delivery service to learn about the policy and fees. 
+
+User: Which payment do you accept?
+Bot: We accept PayPal, digital wallet, credit, debit, and etransfer. 
+
+User: Goodbye, thanks for your help!
+Bot: No problem. If you have any more questions, feel free to ask.
+
+User: Great service! Have an amazing day!
+Bot: Thank you, we value your feedback! Come shop again. 
